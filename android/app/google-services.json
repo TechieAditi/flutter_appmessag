@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240187660571",
+    "firebase_url": "https://mynotificationapp-3f9db.firebaseio.com",
+    "project_id": "mynotificationapp-3f9db",
+    "storage_bucket": "mynotificationapp-3f9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240187660571:android:eb5a2eb1f6282ed512dbbe",
+        "android_client_info": {
+          "package_name": "com.aditi.flutter_appmessag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240187660571-b4u19sftrchh7rjnd0ld89p1njpgqnlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApUhB7Md3GaknsP1wxn1jwgQSSgXz6tvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240187660571-b4u19sftrchh7rjnd0ld89p1njpgqnlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

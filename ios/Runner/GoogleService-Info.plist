@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>240187660571-5qsl2u1tciqm1je8441ncvn1m6pnsm3o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.240187660571-5qsl2u1tciqm1je8441ncvn1m6pnsm3o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-csgnQh3czWYdkOOhJGyQ4TjDXVr8rd8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240187660571</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aditi.flutterAppmessag</string>
+	<key>PROJECT_ID</key>
+	<string>mynotificationapp-3f9db</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mynotificationapp-3f9db.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240187660571:ios:306f33f3bd22034012dbbe</string>
+	<key>DATABASE_URL</key>
+	<string>https://mynotificationapp-3f9db.firebaseio.com</string>
+</dict>
+</plist>
